@@ -1,0 +1,6 @@
+scikit-learn
+transformers
+sentence_transformers
+tensorflow-cpu==2.16.1
+tf-keras==2.16.0 --no-dependencies
+seaborn
